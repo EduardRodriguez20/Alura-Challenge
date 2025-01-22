@@ -1,20 +1,19 @@
 import React, { useState } from 'react';
 import styles from './PopUpCreate.module.css';
 
-const PopUpCreate = ({ onClose, onSave, categories }) => {
+const PopUpEdit = ({ onClose, onSave, categories, video }) => {
   const [formData, setFormData] = useState({
-    title: '',
-    category: '',
-    image: '',
-    video: '',
-    description: '',
+    title: video.title,
+    category: video.category,
+    image: video.image,
+    video: video.video,
+    description: video.description,
   });
 
   const handleChange = (e) => {
-    const { name, value } = e.target;
     setFormData({
       ...formData,
-      [name]: value,
+      [e.target.name]: e.target.value,
     });
   };
 
@@ -108,4 +107,4 @@ const PopUpCreate = ({ onClose, onSave, categories }) => {
   );
 };
 
-export default PopUpCreate;
+export default PopUpEdit;

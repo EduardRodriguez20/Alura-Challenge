@@ -1,0 +1,87 @@
+[
+  {
+    "title": "React Basics",
+    "category": "FRONT END",
+    "image": "./src/assets/video1.jpeg",
+    "video": "https://example.com/video1",
+    "description": "Este challenge es una forma de aprendizaje. Es un mecanismo donde podrás comprometerte en la resolución de un problema para poder aplicar todos los conocimientos adquiridos en la formación React."
+  },
+  {
+    "title": "React Basics 2",
+    "category": "FRONT END",
+    "image": "./src/assets/video1.jpeg",
+    "video": "https://example.com/video1",
+    "description": "Este challenge es una forma de aprendizaje. Es un mecanismo donde podrás comprometerte en la resolución de un problema para poder aplicar todos los conocimientos adquiridos en la formación React."
+  },
+  {
+    "title": "React Basics 3",
+    "category": "FRONT END",
+    "image": "./src/assets/video1.jpeg",
+    "video": "https://example.com/video1",
+    "description": "Este challenge es una forma de aprendizaje. Es un mecanismo donde podrás comprometerte en la resolución de un problema para poder aplicar todos los conocimientos adquiridos en la formación React."
+  },
+  {
+    "title": "React Basics 4",
+    "category": "FRONT END",
+    "image": "./src/assets/video1.jpeg",
+    "video": "https://example.com/video1",
+    "description": "Este challenge es una forma de aprendizaje. Es un mecanismo donde podrás comprometerte en la resolución de un problema para poder aplicar todos los conocimientos adquiridos en la formación React."
+  },
+  {
+    "title": "React Basics 5",
+    "category": "FRONT END",
+    "image": "./src/assets/video1.jpeg",
+    "video": "https://example.com/video1",
+    "description": "Este challenge es una forma de aprendizaje. Es un mecanismo donde podrás comprometerte en la resolución de un problema para poder aplicar todos los conocimientos adquiridos en la formación React."
+  },
+  {
+    "title": "React Basics 6",
+    "category": "FRONT END",
+    "image": "./src/assets/video1.jpeg",
+    "video": "https://example.com/video1",
+    "description": "Este challenge es una forma de aprendizaje. Es un mecanismo donde podrás comprometerte en la resolución de un problema para poder aplicar todos los conocimientos adquiridos en la formación React."
+  },
+  {
+    "title": "React Basics 7",
+    "category": "FRONT END",
+    "image": "./src/assets/video1.jpeg",
+    "video": "https://example.com/video1",
+    "description": "Este challenge es una forma de aprendizaje. Es un mecanismo donde podrás comprometerte en la resolución de un problema para poder aplicar todos los conocimientos adquiridos en la formación React."
+  },
+  {
+    "title": "React Basics 8",
+    "category": "FRONT END",
+    "image": "./src/assets/video1.jpeg",
+    "video": "https://example.com/video1",
+    "description": "Este challenge es una forma de aprendizaje. Es un mecanismo donde podrás comprometerte en la resolución de un problema para poder aplicar todos los conocimientos adquiridos en la formación React."
+  },
+  {
+    "title": "React Basics 9",
+    "category": "FRONT END",
+    "image": "./src/assets/video1.jpeg",
+    "video": "https://example.com/video1",
+    "description": "Este challenge es una forma de aprendizaje. Es un mecanismo donde podrás comprometerte en la resolución de un problema para poder aplicar todos los conocimientos adquiridos en la formación React."
+  },
+  {
+    "title": "React Basics 10",
+    "category": "FRONT END",
+    "image": "./src/assets/video1.jpeg",
+    "video": "https://example.com/video1",
+    "description": "Este challenge es una forma de aprendizaje. Es un mecanismo donde podrás comprometerte en la resolución de un problema para poder aplicar todos los conocimientos adquiridos en la formación React."
+  },
+  {
+    "title": "Backend Fundamentals",
+    "category": "BACK END",
+    "image": "./src/assets/video2.jpeg",
+    "video": "https://example.com/video2",
+    "description": "Este challenge es una forma de aprendizaje. Es un mecanismo donde podrás comprometerte en la resolución de un problema para poder aplicar todos los conocimientos adquiridos en la formación React."
+  },
+  {
+    "title": "Innovación y Gestión",
+    "category": "INNOVACIÓN Y GESTIÓN",
+    "image": "./src/assets/video3.jpeg",
+    "video": "https://example.com/video3",
+    "description": "Este challenge es una forma de aprendizaje. Es un mecanismo donde podrás comprometerte en la resolución de un problema para poder aplicar todos los conocimientos adquiridos en la formación React."
+  }
+]
+  
